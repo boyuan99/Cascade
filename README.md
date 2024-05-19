@@ -23,7 +23,7 @@
 
 Get started quickly with the following two *Colaboratory Notebooks*:
 
-## [Spike inference from calcium data](https://colab.research.google.com/github/HelmchenLabSoftware/Cascade/blob/master/Demo%20scripts/Calibrated_spike_inference_with_Cascade.ipynb)
+## [Spike inference from calcium data](https://colab.research.google.com/github/boyuan99/Cascade/blob/master/Demo%20scripts/Calibrated_spike_inference_with_Cascade.ipynb)
 
 Upload your calcium data, use Cascade to process the data, download the inferred spike rates.
 
